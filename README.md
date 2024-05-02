@@ -23,9 +23,13 @@
 **┃・** Executores suportados
 
 🟢 - Trabalhando sem problemas
+
 🟡 - Trabalhando com problemas
+
 🔴 - Não está funcionando
+
 🔵 - Não testado, mas provavelmente funciona
+
 🟠 - Não testado
 
 
