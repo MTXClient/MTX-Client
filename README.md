@@ -4,6 +4,7 @@
 
 **▬▬▬▬** O que é MTX Cliente? **▬▬▬▬**
 **┃** 
+
 • O MTX Client é um script programado e feito pela MTX-Team que é formada por programadores de nível intermediário ou profissional com foco em trazer os melhores e mais eficientes scripts para seus jogos.
 
 **▬▬▬▬** Por que MTX Client ? **▬▬▬▬**
