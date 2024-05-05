@@ -37,12 +37,12 @@
 🟠 - Não testado
 
 
-**▬▬▬▬** Quais Executores Mobile/emulador o cliente MTX oferece suporte? **▬▬▬▬**
+**▬▬▬▬** Quais Executores Mobile/emulador o MTX client oferece suporte? **▬▬▬▬**
 
 [+] • Arceus X Neo: 🟢
 [+] • Codex: 🟢
 
-**▬▬▬▬** Quais executores de PC o cliente MTX oferece suporte? **▬▬▬▬**
+**▬▬▬▬** Quais executores de PC o MTX client oferece suporte? **▬▬▬▬**
 
 [+] • Solara [Beta]: 🟢
 [+] • Ro Exec: 🟡
