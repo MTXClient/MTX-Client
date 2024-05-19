@@ -45,5 +45,6 @@
 **▬▬▬▬** Quais executores de PC o MTX client oferece suporte? **▬▬▬▬**
 
 [+] • Solara [Beta]: 🟢
-[+] • Ro Exec: 🟡
-[+] • Wave Windows [Trial]: 🟢
+[+] • Incognito: 🔴
+[+] • Ro Exec [Patchead]: 🔴
+[+] • Wave Windows [Trial]: 🔵
