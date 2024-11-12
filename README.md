@@ -1,4 +1,4 @@
-# MTX-Client
+# MTX-Client SCRIPT DESCONTINUADO TEMPORARIAMENTE!!!!
 
 **Apresentando o  MTX Cliente**
 
