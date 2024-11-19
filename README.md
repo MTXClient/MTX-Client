@@ -1,4 +1,5 @@
 # MTX-Client SCRIPT DESCONTINUADO TEMPORARIAMENTE!!!!
+# New Server Oficial : https://discord.gg/batDc6xR
 
 **Apresentando o  MTX Cliente**
 
