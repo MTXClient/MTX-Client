@@ -39,12 +39,17 @@
 
 **▬▬▬▬** Quais Executores Mobile/emulador o MTX client oferece suporte? **▬▬▬▬**
 
-[+] • Arceus X Android: 🟢
-[+] • Ap X iOS: 🟢
+[+] • Arceus X: 🟢
+[+] • Fluxus: 🟢
+[+] • Apple ware: 🟢
+[+] • Cubix: 🟢
+[+] • Cryptic: 🟢
 [+] • Codex: 🟢
+[+] • Delta: 🟢
+
 
 **▬▬▬▬** Quais executores de PC o MTX client oferece suporte? **▬▬▬▬**
 
-[+] • Solara : 🟢
+[+] • Solara : 🟡
 [+] • Synapse z : 🟢
-[+] • Wave Windows : 🟢
+[+] • Wave : 🟢
