@@ -1,7 +1,7 @@
 # MTX-Client - Desinvolvimento Pausado.
 # New Server Oficial : https://discord.gg/batDc6xR
 
-**Apresentando o  MTX Cliente**
+**Apresentando o  MTX Cliente :**
 
 **▬▬▬▬** O que é MTX Cliente? **▬▬▬▬**
 
