@@ -1,5 +1,5 @@
-# MTX-Client - Desenvolvimento Pausado.
-# New Server Oficial : https://discord.gg/batDc6xR
+# MTX-Client - 🟢
+# New Server Oficial : [MTX Client New Server](https://discord.gg/CUruazBg)
 
 **Apresentando o  MTX Cliente :**
 
@@ -51,6 +51,9 @@
 
 **▬▬▬▬** Quais executores de PC o MTX client oferece suporte? **▬▬▬▬**
 
-[+] • Solara : 🟡
+[+] • Solara : 🔴
+[+] • AWP : 🟢
+[+] • Luna : 🟢
 [+] • Synapse z : 🟢
 [+] • Wave : 🟢
+
